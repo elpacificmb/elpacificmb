@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-<!--
-**elpacificmb/elpacificmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Am El Pacific Binagha a Software Engineer.
 
-Here are some ideas to get you started:
+#### Connect with me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Elpacific_m_bin) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elpacific-binagha) [![Subscribe to My Channel](https://img.shields.io/badge/--gmail?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/c/ElpacificBinagha)
+___
+
+|My github statistics|My languages|This profile's visit times|
+|-|-|-|
+|[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=elpacificmb&show_icons=true&theme=dark&hide_title=true)](https://github.com/elpacificmb)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elpacificmb&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/elpacificmb)|![Visitors](https://profile-counter.glitch.me/%7Belpacificmb%7D/count.svg)
+
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
