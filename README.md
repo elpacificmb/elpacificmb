@@ -4,7 +4,7 @@
 
 #### Connect with me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Elpacific_m_bin) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elpacific-binagha) [![Subscribe to My Channel](https://img.shields.io/badge/--gmail?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/c/ElpacificBinagha)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elpacific-binagha) [![Subscribe to My Channel](https://img.shields.io/badge/--gmail?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/c/ElPacificBinagha?sub_confirmation=1) [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Elpacific_m_bin) 
 ___
 
 |My github statistics|My languages|This profile's visit times|
